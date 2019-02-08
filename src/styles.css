@@ -1,0 +1,52 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+
+@font-face {
+  font-family: fjalla;
+  src: url(./assets/fonts/FjallaOne-Regular.ttf);
+}
+
+
+
+@font-face {
+  font-family: panlanquin-bold;
+  src: url(./assets/fonts/palanquin-bold.ttf);
+}
+@font-face {
+  font-family: panlanquin-darkbold;
+  src: url(./assets/fonts/palanquindark-bold.ttf);
+}
+
+
+@font-face {
+  font-family: panlanquin-medium;
+  src: url(./assets/fonts/palanquin-medium.ttf);
+}
+
+
+@font-face {
+  font-family: panlanquin;
+  src: url(./assets/fonts/palanquin-regular.ttf);
+}
+
+
+@font-face {
+  font-family: panlanquin-semibold;
+  src: url(./assets/fonts/palanquin-semibold.ttf);
+}
+
+@font-face {
+  font-family: panlanquin-thin;
+  src: url(./assets/fonts/palanquin-thin.ttf);
+}
+
+
+
+
+
